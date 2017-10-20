@@ -18,3 +18,5 @@ hg clone http://hg.libsdl.org/SDL
 hg clone http://hg.libsdl.org/SDL_image/
 hg clone http://hg.libsdl.org/SDL_mixer/
 hg clone http://hg.libsdl.org/SDL_ttf/
+git clone https://github.com/Distrotech/smpeg
+wget http://zlib.net/zlib-1.2.11.tar.gz
