@@ -1,5 +1,9 @@
 {
-"version":"1",
+"version":2,
+"getfromgit":true,
 "title":"距离12月学业水平考试还有",
-"date":"20171227"
+"date":"20171227",
+"enablenotifyboard":false,
+"labelntitle":"",
+"labeldetail":""
 }
