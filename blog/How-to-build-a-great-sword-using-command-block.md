@@ -47,16 +47,16 @@
 ### 属性名&名称
 
 属性名及名称用来标注是哪种属性。我们这里刚好有一张对应的表格：
-
-| 属性名&名称                      | 概述                                       | 默认值  | 最小值  | 最大值       |
-| --------------------------- | ---------------------------------------- | ---- | ---- | --------- |
-| generic.maxHealth           | 这个生物的最大[生命值](https://minecraft-zh.gamepedia.com/%E7%94%9F%E5%91%BD%E5%80%BC)；亦或这个[生物](https://minecraft-zh.gamepedia.com/%E7%94%9F%E7%89%A9)通过生命恢复最多可以恢复至的极限。 | 20   | 0.0  | 1.7x10308 |
-| generic.followRange         | 这个生物追踪[玩家](https://minecraft-zh.gamepedia.com/%E7%8E%A9%E5%AE%B6)或者其他生物的最大范围，以方块数为单位。目标离开这个区域意味着它们将停止追踪。目前大多数[生物](https://minecraft-zh.gamepedia.com/%E7%94%9F%E7%89%A9)这个值为16，而[僵尸](https://minecraft-zh.gamepedia.com/%E5%83%B5%E5%B0%B8)则有40。 | 32   | 0.0  | 2048      |
-| generic.knockbackResistance | 这个生物的抗击退效果（包括攻击的击退、爆炸和弹射物冲击）的程度，1.0代表完全抵抗。 | 0.0  | 0.0  | 1.0       |
-| generic.movementSpeed       | 在某种不明度量标准下这个生物的速度。                       | 0.7* | 0.0  | 1.7x10308 |
-| generic.attackDamage        | 普通攻击造成的伤害，一点表示半个心形标志。                    | 1.0  | 0.0  | 1.7x10308 |
-| generic.armor               | 盔甲的防御点数。                                 | 0.0  | 0.0  | 30.0      |
-| generic.armorToughness      | 盔甲韧性                                     | 0.0  | 0.0  | 20.0      |
+<table border = 1>
+<tr><td> 属性名&名称</td><td>概述</td><td>默认值</td><td>最小值</td><td>最大值</td>
+<tr><td>generic.maxHealth</td><td>这个生物的最大生命值；亦或这个生物通过生命恢复最多可以恢复至的极限。</td><td>20</td><td>0.0</td><td>1.7x10308</td>
+<tr><td>generic.followRange</td><td>这个生物追踪玩家或者其他生物的最大范围，以方块数为单位。目标离开这个区域意味着它们将停止追踪。目前大多数生物这个值为16，而僵尸则有40。</td><td>32 </td><td>0.0</td><td>2048</td>
+<tr><td>generic.knockbackResistance</td><td>这个生物的抗击退效果（包括攻击的击退、爆炸和弹射物冲击）的程度，1.0代表完全抵抗。</td><td>0.0</td><td>0.0</td><td>1.0</td>
+<tr><td>generic.movementSpeed</td><td>在某种不明度量标准下这个生物的速度。</td><td>0.7*</td><td>0.0</td><td>1.7x10308</td>
+<tr><td>generic.attackDamage</td><td>普通攻击造成的伤害，一点表示半个心形标志。</td><td>1.0</td><td>0.0</td><td>1.7x10308</td>
+<tr><td>generic.armor</td><td>盔甲的防御点数。</td><td>0.0</td><td>0.0</td><td>30.0</td>
+<tr><td>generic.armorToughness</td><td>盔甲韧性</td><td>0.0</td><td>0.0</td><td>20.0</td>
+</table>
 讲白了就是，你想给物品加什么属性，就把左边那一排的东西中的一条放到那个位置。
 
 ### 属性的量
