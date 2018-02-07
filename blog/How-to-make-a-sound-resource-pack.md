@@ -126,7 +126,7 @@
 
 这里列举一个常见的错误
 
-![resource_pack_debug_file_not_exist](C:\Users\Saber\Documents\GitHub\inapp123.github.io\blog\image\resource_pack_debug_file_not_exist.png)
+![resource_pack_debug_file_not_exist](image\resource_pack_debug_file_not_exist.png)
 
 *找不到文件。请确认文件名(或文件夹名)是否正确*
 
