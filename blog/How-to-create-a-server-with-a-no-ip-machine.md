@@ -222,7 +222,7 @@ health:
 
 如果启动后大概长这个样子↓，说明配置无误！
 
-![lunnelSer_started](image/reverse_proxy/lunnelSer_started.png)
+![lunnelSer_started](image/reverse_proxy/lunnelser_started.png)
 
 如果出现错误，请参考附录1。
 
