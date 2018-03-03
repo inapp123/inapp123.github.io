@@ -7,4 +7,5 @@ inapp~~脑子抽了~~无聊写的文章。个人语文能力较弱，请轻喷
 
 [如何制作音效资源包](http://inapp.iccmc.cc/blog/How-to-make-a-sound-resource-pack)
 
-http://inapp.iccmc.cc/blog/How-to-create-a-server-with-your-pc
+[基于内网穿透使用无公网主机开服的实现](http://inapp.iccmc.cc/blog/How-to-create-a-server-with-a-no-ip-machine)
+
