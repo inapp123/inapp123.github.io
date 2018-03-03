@@ -33,7 +33,7 @@
 * 一台处于公网的服务器（最好高带宽，不要流量计费）
   整个服务器的流量基本都跑在这上面，其带宽需要2倍于正常开服时所用的带宽。
 
-  最好linux系统。。。没有apt的世界真的是一片黑暗。。。
+  最好linux系统且最好是debian系。。。没有apt的世界真的是一片黑暗。。。下面的教程也会采用debian系作为演示教学
 
 * 服务端
 
@@ -74,12 +74,10 @@ sudo apt-get update
 *注：密码不会显示出来（连星号都没有）。使劲输就对了*
 
 ```bash
-sudo apt-get install golang git screen
+sudo apt-get install golang git screen nano make  -y
 ```
 
 ![apt-get_update](image/reverse_proxy/apt-get_install_golang.png)
-
-当"Do you want to continue? [Y/n]"出现时，输入Y开始安装。
 
 
 
